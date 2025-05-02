@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhas Pradeep Kumar</h1>
 <h3 align="center">Passionate Java beginner and DevOps + Cloud aspirant</h3>
 
-- 🔭 I’m currently working on learning Java backend development
+- 🔭 I’m currently working on learning **Java backend development**
 
 - 🌱 I’m currently exploring **Java, Spring Boot, Git, Docker, and foundational Cloud concepts (AWS)**
 
