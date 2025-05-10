@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **CI/CD pipelines and deploying apps to the cloud**
 
-- 💬 Ask me about **Java basics, setting up environments, or starting with DevOps**
+- 💬 Ask me about **Java, setting up environments, or starting with DevOps**
 
 - 📫 How to reach me **suhaspradeepkumar@gmail.com**
 
