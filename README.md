@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Suhas Pradeep Kumar</h1>
 <h3 align="center">Passionate Java beginner and DevOps + Cloud aspirant</h3>
+<p>🔭 I’m currently learning and exploring <b>Cloud Computing</b>, <b>DevOps</b></p>
 
-- 🔭 I’m currently working on learning **Java backend development**
+<ul>
+  <li>🌱 I’m focusing on <b>AWS</b>, <b>GCP</b>, <b>Docker</b>, <b>Git</b>, <b>CI/CD basics</b></li>
+  <li>👯 I’m looking to collaborate on <b>beginner-friendly Cloud projects</b>, <b>DevOps projects</b></li>
+  <li>🤝 I’m seeking help with <b>deploying applications</b>, <b>building CI/CD pipelines</b>, <b>understanding cloud services</b></li>
+  <li>💬 Ask me about <b>Cloud basics</b>, <b>setting up environments</b>, <b>DevOps fundamentals</b></li>
+  <li>📫 Reach me at <b>suhaspradeepkumar@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>I learn best by practicing hands-on</b>, <b>sharing my knowledge</b> 😄</li>
+</ul>
 
-- 🌱 I’m currently exploring **Java, Spring Boot, Git, Docker, and foundational Cloud concepts (AWS)**
-
-- 👯 I’m looking to collaborate on **beginner-friendly Java and DevOps projects**
-
-- 🤝 I’m looking for help with **CI/CD pipelines and deploying apps to the cloud**
-
-- 💬 Ask me about **Java, setting up environments, or starting with DevOps**
-
-- 📫 How to reach me **suhaspradeepkumar@gmail.com**
-
-- ⚡ Fun fact **I learn best by explaining what I just learned to others😄**
 
 
 <p align="left">
