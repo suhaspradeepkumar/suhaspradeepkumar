@@ -1,14 +1,11 @@
-<p>🔭 I’m currently learning and exploring <b>Cloud Computing</b>, <b>DevOps</b></p>
 
-<ul>
-  <li>🌱 I’m focusing on <b>AWS</b>, <b>GCP</b>, <b>Docker</b>, <b>Git</b>, <b>CI/CD basics</b></li>
-  <li>👯 I’m looking to collaborate on <b>beginner-friendly Cloud projects</b>, <b>DevOps projects</b></li>
-  <li>🤝 I’m seeking help with <b>deploying applications</b>, <b>building CI/CD pipelines</b>, <b>understanding cloud services</b></li>
-  <li>💬 Ask me about <b>Cloud basics</b>, <b>setting up environments</b>, <b>DevOps fundamentals</b></li>
-  <li>📫 Reach me at <b>suhaspradeepkumar@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>I learn best by practicing hands-on</b>, <b>sharing my knowledge</b> 😄</li>
-</ul>
-
+- 🔭 I’m currently learning and exploring **Cloud Computing**, **DevOps**  
+- 🌱 I’m focusing on **AWS**, **GCP**, **Docker**, **Git**, **CI/CD basics**  
+- 👯 I’m looking to collaborate on **beginner-friendly Cloud projects**, **DevOps projects**  
+- 🤝 I’m seeking help with **deploying applications**, **building CI/CD pipelines**, **understanding cloud services**  
+- 💬 Ask me about **Cloud basics**, **setting up environments**, **DevOps fundamentals**  
+- 📫 Reach me at **suhaspradeepkumar@gmail.com**  
+- ⚡ Fun fact: **I learn best by practicing hands-on**, **sharing my knowledge** 😄  
 
 
 <p align="left">
