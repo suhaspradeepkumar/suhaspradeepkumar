@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Suhas Pradeep Kumar</h1>
-<h3 align="center">Passionate Java beginner and DevOps + Cloud aspirant</h3>
 <p>🔭 I’m currently learning and exploring <b>Cloud Computing</b>, <b>DevOps</b></p>
 
 <ul>
@@ -7,7 +5,7 @@
   <li>👯 I’m looking to collaborate on <b>beginner-friendly Cloud projects</b>, <b>DevOps projects</b></li>
   <li>🤝 I’m seeking help with <b>deploying applications</b>, <b>building CI/CD pipelines</b>, <b>understanding cloud services</b></li>
   <li>💬 Ask me about <b>Cloud basics</b>, <b>setting up environments</b>, <b>DevOps fundamentals</b></li>
-  <li>📫 Reach me suhaspradeepkumar@gmail.com
+  <li>📫 Reach me at <b>suhaspradeepkumar@gmail.com</b></li>
   <li>⚡ Fun fact: <b>I learn best by practicing hands-on</b>, <b>sharing my knowledge</b> 😄</li>
 </ul>
 
